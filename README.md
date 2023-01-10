@@ -1,2 +1,1 @@
-# Kotlin
-Jejak Belajar Kotlin
+# Jejak Belajar Kotlin
